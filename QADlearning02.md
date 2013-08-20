@@ -69,8 +69,7 @@ Once set, the standard cost of an item is used as the basis for all accounting e
 ##### PPV (Purchase Price Variance) 采购价格差异
 * The difference between unit cost on a purchase order and GL unit cost in an item master.
 * Calculated when a purchase order is received.
-* 分为 
-
+* 计算公式{PO Unit Cost – (GL Unit Cost – Overhead)} * PO Qty Received
 
 ##### APV (Accounts Payable Variance) 
 * The difference between invoice price and purchase order cost. Calculated when the supplier invoice is matched with receivers in accounts payable.
