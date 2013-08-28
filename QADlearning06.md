@@ -21,3 +21,15 @@ QAD EE --- GRS
 ***
 
 #### shop floor 车间，工场
+
+
+#### routing ====> work center.
+
+#### 
+
+***
+
+#### terminology
+
+###### consignment 装运，托运，委托。
+

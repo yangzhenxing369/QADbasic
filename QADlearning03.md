@@ -10,7 +10,7 @@ QAD EE 学习 财务部分
 * Current Cost     [Type: CURR] 
 	* 该成本集保持跟踪平均成本及上次成本。
   
-* Simulate Cost   [Type: SIM]
+* Simulate Cost   [Type: SIM]   
 	* 该成本集包含模拟成本。
 
 ##### 成本计算方法 cost calcualte method

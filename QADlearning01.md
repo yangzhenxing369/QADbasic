@@ -128,8 +128,4 @@ QAD EE 学习 财务部分
 	* GL Profile(credit note) 客户开的，用于抵消()
 	* GL Profile(pre-payment) 预付款.(customer,预收; supplier,预付)
 	* GL Profile(Deducation) 客户付款有尾差时,零头。
-
-
-##### cost set
-
 	
